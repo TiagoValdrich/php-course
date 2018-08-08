@@ -1,0 +1,9 @@
+{
+    "name": "tiago/composer",
+    "description": "Creating a composer vendor for the php course",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog": "1.23.*"
+    }
+}
